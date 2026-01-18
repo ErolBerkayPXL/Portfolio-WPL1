@@ -34,5 +34,4 @@ Tijdens het eerste semester heb ik aan de volgende zaken gewerkt:
 * **Wat:** Een praktijkdag waarbij we de theorie van netwerken hebben omgezet in fysieke opstellingen.
 * **Bespreking:** Dit was voor mij een hoogtepunt omdat ik de abstracte leerstof eindelijk kon visualiseren. Het fysiek bezig zijn met de infrastructuur gaf me veel voldoening en bevestigde mijn keuze voor deze technische richting. Het was leerzaam om te zien hoe alle onderdelen in een echte omgeving samenwerken.
 
----
-*Berkay Erol - Januari 2026*
+
