@@ -1,5 +1,6 @@
 # Portfolio-
 INTRODUCTIE
+
 Inleiding Dit portfolio is mijn persoonlijke instrument voor het vak Werkplekleren 1 (WPL1) binnen de opleiding Graduaat Systeem- en Netwerkbeheer. Het dient als hulpmiddel om terug te blikken op mijn leer- en werkervaringen en om een duidelijk overzicht te houden van mijn voortgang tijdens de studie. Het portfolio helpt mij om mijn eigen leerproces beter te begrijpen, mijn keuzes te kunnen verantwoorden en plannen voor de toekomst te maken.
 
 Daarnaast is dit portfolio een functioneel middel voor mijn coaches. Het geeft hen de kans om mijn ontwikkeling van dichtbij te volgen, zodat zij mij gericht kunnen ondersteunen en bijsturen waar dat nodig is. Gedurende de opleiding zal dit portfolio blijven groeien, aangezien ik elk semester nieuwe opdrachten en reflecties toevoeg.
