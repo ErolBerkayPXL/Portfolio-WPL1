@@ -9,16 +9,30 @@
 
 # Opdrachten
 
-### Overzicht van opdrachten WPL1
-Tijdens het eerste semester heb ik aan de volgende opdrachten gewerkt:
-* **GitHub Portfolio:** Het opzetten van deze gedocumenteerde omgeving.
-* **Passwordmanager:** Installatie en veilig gebruik van tools voor wachtwoordbeheer (Bitwarden/KeePass).
-* **Documenteren & Ticketing:** Leren werken met systemen voor incidentbeheer.
-* **Actualiteit:** Onderzoek naar een IT-onderwerp en dit presenteren.
-* **Netwerkschema's:** Het uittekenen van een professionele infrastructuur.
+In dit onderdeel van mijn portfolio bespreek ik de verschillende opdrachten die ik heb uitgevoerd tijdens Werkplekleren 1. Eerst geef ik een algemeen overzicht van alle taken, gevolgd door mijn drie favoriete "Best of" opdrachten.
 
-### Interessante opdrachten
-De opdracht over **Netwerkschema's** vond ik het meest interessant. Omdat ik uit de richting Elektriciteit kom, vond ik het boeiend om te zien hoe de fysieke kabels verbonden worden met de logische structuur van een netwerk.
+## 1. Algemeen overzicht opdrachten
+Tijdens het eerste semester heb ik aan de volgende zaken gewerkt:
+* **GitHub Portfolio:** Opzetten van een gedocumenteerde omgeving met Markdown.
+* **Passwordmanager:** Installatie en configuratie van tools voor veilig wachtwoordbeheer.
+* **Documenteren & Ticketing:** Gebruik van professionele systemen voor incidentbeheer.
+* **Actualiteit:** Onderzoek naar een actueel IT-onderwerp en presentatie aan de klas.
+* **Netwerkschema's:** Uittekenen van fysieke en logische netwerkinfrastructuren.
+* **Ethiek & ChatGPT:** Reflectie over het gebruik van AI en aansprakelijkheid in de IT.
 
-### Best of 
-Mijn favoriete opdracht was het maken van dit **GitHub Portfolio**. Het was een compleet nieuwe tool voor mij, en ik vind het knap dat ik nu mijn eigen werk online kan presenteren met Markdown.
+## 2. Best of
+
+### GitHub Portfolio (Versiebeheer & Documentatie)
+* **Wat:** Het volledig structureren en bijhouden van dit online portfolio op GitHub.
+* **Bespreking:** Dit was mijn eerste kennismaking met professioneel versiebeheer. Ik heb geleerd hoe ik via "commits" mijn voortgang kan bijhouden. Omdat ik uit de richting Elektriciteit kom, was het werken met Markdown nieuw, maar ik zie nu in hoe essentieel dit is voor een systeembeheerder om alles overzichtelijk te documenteren.
+
+### Netwerkschema's (Infrastructuur)
+* **Wat:** Het in kaart brengen van een netwerkontwerp door middel van schema's.
+* **Bespreking:** Deze opdracht sloot het beste aan bij mijn voorkennis van elektrische installaties. Het hielp me om de fysieke componenten (zoals kabels en racks) te verbinden met de logische kant (IP-adressen en dataverkeer). Ik heb geleerd dat een goed schema onmisbaar is bij het oplossen van netwerkproblemen.
+
+### Netwerkdag Corda Campus (Praktijkervaring)
+* **Wat:** Een praktijkdag waarbij we de theorie van netwerken hebben omgezet in fysieke opstellingen.
+* **Bespreking:** Dit was voor mij een hoogtepunt omdat ik de abstracte leerstof eindelijk kon visualiseren. Het fysiek bezig zijn met de infrastructuur gaf me veel voldoening en bevestigde mijn keuze voor deze technische richting. Het was leerzaam om te zien hoe alle onderdelen in een echte omgeving samenwerken.
+
+---
+*Berkay Erol - Januari 2026*
