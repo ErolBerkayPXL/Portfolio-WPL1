@@ -6,7 +6,10 @@ Inleiding Dit portfolio is mijn persoonlijke instrument voor het vak Werkplekler
 Daarnaast is dit portfolio een functioneel middel voor mijn coaches. Het geeft hen de kans om mijn ontwikkeling van dichtbij te volgen, zodat zij mij gericht kunnen ondersteunen en bijsturen waar dat nodig is. Gedurende de opleiding zal dit portfolio blijven groeien, aangezien ik elk semester nieuwe opdrachten en reflecties toevoeg.
 
 PERSOONLIJKE INFO (CV)
+
+
 Persoonlijke gegevens
+
 
 Naam: Berkay Erol
 
