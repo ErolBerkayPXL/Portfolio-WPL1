@@ -4,63 +4,58 @@
 * [Overzicht Ontwikkelingsgesprekken](ontwikkeling.md)
 * [Opdrachten](opdrachten.md)
 * [Reflectie](reflectie.md)
-# Portfolio-
-INTRODUCTIE
+# Portfolio
 
-Inleiding Dit portfolio is mijn persoonlijke instrument voor het vak Werkplekleren 1 (WPL1) binnen de opleiding Graduaat Systeem- en Netwerkbeheer. Het dient als hulpmiddel om terug te blikken op mijn leer- en werkervaringen en om een duidelijk overzicht te houden van mijn voortgang tijdens de studie. Het portfolio helpt mij om mijn eigen leerproces beter te begrijpen, mijn keuzes te kunnen verantwoorden en plannen voor de toekomst te maken.
+## Introductie
 
-Daarnaast is dit portfolio een functioneel middel voor mijn coaches. Het geeft hen de kans om mijn ontwikkeling van dichtbij te volgen, zodat zij mij gericht kunnen ondersteunen en bijsturen waar dat nodig is. Gedurende de opleiding zal dit portfolio blijven groeien, aangezien ik elk semester nieuwe opdrachten en reflecties toevoeg.
+Mijn naam is Berkay Erol en ik volg de opleiding Graduaat Systeem- en Netwerkbeheer aan Hogeschool PXL.
 
-PERSOONLIJKE INFO (CV)
+Voor ik aan deze opleiding begon, volgde ik Elektrische Installaties aan het Spectrumcollege. Ik heb voor die richting gekozen omdat er veel elektriciens in mijn familie zijn en elektriciteit mij toen ook aansprak. Ik wilde deze opleiding graag afmaken, maar daarna besloot ik om verder te gaan in een andere technische richting.
 
+## Waarom Systeem- en Netwerkbeheer?
 
-Persoonlijke gegevens
+Ik heb voor Systeem- en Netwerkbeheer gekozen omdat ik graag een richting wilde volgen met goede toekomstmogelijkheden. Voor mij is het belangrijk om later een job te hebben waarvan ik het gevoel heb dat die ook binnen tien jaar nog nodig zal zijn.
 
+IT blijft zich ontwikkelen en dat spreekt mij aan. Binnen IT spreekt security mij op dit moment het meeste aan. Ik weet nog niet precies welke job ik later wil doen, maar ik denk dat ik mij graag verder wil ontwikkelen in de richting van security.
 
-Naam: Berkay Erol
+## Mijn sterke punten en werkpunten
 
-Leeftijd: 18 jaar
+Mijn sterke punten zijn mijn doorzettingsvermogen en probleemoplossend denken. Als iets niet onmiddellijk lukt, probeer ik graag uit te zoeken waar het probleem zit en hoe ik het kan oplossen.
 
-E-mailadres: berkay.erol.6900@gmail.com
+Tijdens mijn eerste semester heb ik ook gemerkt dat motivatie en timemanagement belangrijke werkpunten voor mij zijn. De vrijheid op de hogeschool was voor mij in het begin wennen. In het middelbaar werd ik meer opgevolgd, terwijl ik op de hogeschool veel meer zelf verantwoordelijk ben.
 
-Opleiding: Graduaat Systeem- en Netwerkbeheer (Hogeschool PXL)
+Soms ging ik niet naar de les of lette ik niet voldoende op. Daardoor merkte ik achteraf dat ik snel een achterstand kon oplopen. Vooral bij IT Organization en Networks heb ik momenten gehad waarop de les verderging terwijl ik niet goed wist waarover het ging. Bij Linux probeerde ik de lessen wel te volgen, maar vond ik de leerstof moeilijk.
 
-Opleidingen
+Door deze ervaringen ben ik leergieriger geworden. Ik wil vermijden dat ik opnieuw tijdens een les merk dat ik de leerstof niet begrijp. Ik heb ook het gevoel dat mijn planning en timemanagement ondertussen verbeterd zijn.
 
-Secundair Onderwijs: 6de jaar Elektrische Installaties – Spectrumcollege (Diploma behaald)
+## Persoonlijke info
 
-Lager Onderwijs: Getuigschrift Basisonderwijs
+**Naam:** Berkay Erol  
+**Leeftijd:** 18 jaar  
+**Opleiding:** Graduaat Systeem- en Netwerkbeheer – Hogeschool PXL  
 
-Vaardigheden (Skills)
+## Vooropleiding
 
-Hard Skills:
+**Secundair onderwijs:** 6de jaar Elektrische Installaties – Spectrumcollege  
+**Diploma:** behaald
 
-Basiskennis van elektrische schema's en installatietechnieken (via Spectrumcollege).
+## Hard Skills
 
-Configuratie en troubleshooting van Windows OS.
+- Basiskennis van elektrische schema's en installatietechnieken
+- Basiskennis van Windows
+- Basiskennis van netwerken
+- Basiskennis van Linux
 
-Werken met Command Prompt (CMD) en PowerShell.
+## Soft Skills
 
-Basis netwerkbekabeling.
+- Discipline en doorzettingsvermogen
+- Probleemoplossend denken
+- Werken onder tijdsdruk
+- Samenwerken in een team
+- Bereidheid om bij te leren
 
-Soft Skills:
+## Werkervaring
 
-Discipline en doorzettingsvermogen.
+**2024 – heden | Kok | Eetzaak (familiebedrijf)**
 
-Werken onder tijdsdruk.
-
-Samenwerken in een team.
-
-Werkervaring
-
-2024 – Heden | Kok | Eetzaak (Familiebedrijf)
-
-Taken: Bereiden van maaltijden, voorraadbeheer en samenwerken in de keuken op drukke momenten.
-
-Ervaring: Leren presteren onder hoge druk en verantwoordelijkheid dragen voor kwaliteit.
-
-Hobby’s
-
-Kickboksen: Helpt mij bij het ontwikkelen van discipline en een goede conditie.
-
-Zwemmen & Wandelen: Manieren om te ontspannen en mijn focus te herstellen na de lessen.
+Als kok werk ik regelmatig op drukke momenten. Hierdoor heb ik geleerd om onder tijdsdruk te werken, samen te werken en verantwoordelijkheid te nemen voor mijn werk.
