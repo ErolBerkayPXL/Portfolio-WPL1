@@ -30,8 +30,5 @@ Tijdens het eerste semester heb ik aan de volgende zaken gewerkt:
 * **Wat:** Het in kaart brengen van een netwerkontwerp door middel van schema's.
 * **Bespreking:** Deze opdracht sloot het beste aan bij mijn voorkennis van elektrische installaties. Het hielp me om de fysieke componenten (zoals kabels en racks) te verbinden met de logische kant (IP-adressen en dataverkeer). Ik heb geleerd dat een goed schema onmisbaar is bij het oplossen van netwerkproblemen.
 
-### Netwerkdag Corda Campus (Praktijkervaring)
-* **Wat:** Een praktijkdag waarbij we de theorie van netwerken hebben omgezet in fysieke opstellingen.
-* **Bespreking:** Dit was voor mij een hoogtepunt omdat ik de abstracte leerstof eindelijk kon visualiseren. Het fysiek bezig zijn met de infrastructuur gaf me veel voldoening en bevestigde mijn keuze voor deze technische richting. Het was leerzaam om te zien hoe alle onderdelen in een echte omgeving samenwerken.
 
 
