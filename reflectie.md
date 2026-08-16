@@ -9,26 +9,37 @@
 
 # Reflectie
 
-In deze reflectie blik ik terug op mijn ervaringen en groei tijdens het eerste semester van Werkplekleren 1 (WPL1).
 
-### 1. AIM-reflectie (Terugblik)
+In deze reflectie blik ik terug op mijn eerste semester binnen de opleiding Graduaat Systeem- en Netwerkbeheer en op wat ik daaruit geleerd heb.
 
-**Wat ging goed?**
-Mijn grootste succes was de aanpassing aan een nieuwe manier van leren. De overstap van het Spectrumcollege (Elektrische Installaties) naar de Hogeschool PXL was een grote verandering, maar ik ben trots op hoe ik me heb ingewerkt in IT-omgevingen zoals GitHub. Mijn technische inzicht hielp me om sneller logische structuren te begrijpen binnen de infrastructuur.
+## Terugblik op mijn eerste semester
 
-**Wat was uitdagend?**
-In het begin vond ik de theoretische kant van IT en de specifieke vaktermen vrij lastig. De omschakeling van puur fysiek en praktisch werk naar het nauwkeurig documenteren en configureren op een computer vroeg om veel aanpassingsvermogen en een andere manier van focussen.
+De overstap van het middelbaar naar de hogeschool was groter dan ik had verwacht. Vooral de vrijheid op de hogeschool was nieuw voor mij. In het middelbaar werd ik meer opgevolgd, terwijl ik op de hogeschool zelf verantwoordelijk ben voor mijn planning, aanwezigheid en het bijhouden van de leerstof.
 
-**Nieuwe inzichten**
-Ik heb ingezien dat IT niet alleen gaat over het technisch oplossen van problemen, maar ook over een goede voorbereiding en nauwkeurige documentatie. Mijn achtergrond als kok heeft me geleerd om onder druk te werken, en die rust probeer ik nu ook toe te passen wanneer ik met nieuwe, complexe systemen werk.
+In het begin ging dit niet altijd goed. Soms ging ik niet naar de les of lette ik niet voldoende op. Daardoor merkte ik later dat de klas bezig was met leerstof waarvan ik niet goed wist waarover het ging. Vooral bij IT Organization and Networks heb ik dit gemerkt. Bij Linux probeerde ik de lessen wel te volgen, maar vond ik de leerstof moeilijk.
 
-### 2. Vooruitblik naar WPL2
+## Wat ging goed?
 
-**Mijn kwaliteiten:**
-Ik neem mijn discipline mee vanuit het kickboksen. Deze mentaliteit helpt me om gefocust te blijven tijdens het leerproces, ook wanneer de leerstof uitdagender wordt en meer doorzettingsvermogen vraagt.
+Ik merk dat ik doorheen het semester beter ben geworden in plannen en timemanagement. Ik probeer meer rekening te houden met wat ik moet doen en wanneer iets af moet zijn.
 
-**Mijn doelen voor het tweede semester:**
-* **Zelfontwikkeling:** Ik wil mijn algemene aanpak bij het oplossen van problemen verder verfijnen en proberen om zelfstandiger naar oplossingen te zoeken binnen verschillende omgevingen.
-* **Technische verbreding:** Ik stel mezelf als doel om mijn technische kennis te verbreden en meer inzicht te krijgen in de diverse systemen die binnen de opleiding aan bod komen.
-* **Professionele houding:** Ik wil mijn professionele vaardigheden verder ontwikkelen om zo een betere bijdrage te kunnen leveren aan de werking binnen een IT-context.
+Ook heb ik gemerkt dat ik graag problemen probeer op te lossen. Als iets niet lukt, wil ik meestal weten waarom het niet werkt en probeer ik een oplossing te vinden. Dat past volgens mij goed bij de opleiding.
 
+## Wat vond ik moeilijk?
+
+Mijn motivatie en concentratie waren niet altijd even goed. Wanneer ik een les miste of niet goed oplette, liep ik snel achterstand op. Daarna werd het moeilijker om de volgende lessen te begrijpen.
+
+Ook spelling vind ik soms moeilijk. Teksten begrijpen lukt meestal wel, maar bij het zelf schrijven maak ik soms fouten. Dit is iets waar ik verder aan wil werken.
+
+## Wat heb ik geleerd?
+
+Ik heb vooral geleerd dat ik zelf verantwoordelijkheid moet nemen voor mijn studies. Als ik lessen niet volg of de leerstof niet bijhoud, merk ik daar later de gevolgen van.
+
+Daardoor ben ik ook leergieriger geworden. Ik wil niet opnieuw tijdens een les het gevoel hebben dat ik niet begrijp waarover het gaat. Daarom wil ik sneller vragen stellen of de leerstof opnieuw bekijken wanneer ik iets niet begrijp.
+
+## Mijn doelen
+
+Voor de volgende periode wil ik vooral werken aan mijn motivatie, aanwezigheid en planning. Ik wil de lessen beter volgen en voorkomen dat ik achterstand krijg.
+
+Daarnaast wil ik mijn kennis van Linux en netwerken verder verbeteren. Op dit moment spreekt security mij het meeste aan binnen IT. Ik weet nog niet precies welke job ik later wil doen, maar ik wil tijdens de opleiding verder ontdekken welke richting het beste bij mij past.
+
+Mijn belangrijkste doel is om vooruitgang te blijven maken en mijn opleiding succesvol af te ronden.
