@@ -10,13 +10,13 @@
 
 ## Mijn keuze voor de opleiding
 
-Voor mijn huidige opleiding volgde ik Elektrische Installaties aan het Spectrumcollege. Ik koos daar oorspronkelijk voor omdat er veel elektriciens in mijn familie zijn en elektriciteit mij toen aansprak. Na het behalen van mijn diploma wilde ik verder studeren in een richting met goede toekomstmogelijkheden. Daarom heb ik gekozen voor het Graduaat Systeem- en Netwerkbeheer.
+Voor mijn huidige opleiding volgde ik Elektrische Installaties aan het Spectrumcollege. Ik koos daar voor omdat er veel elektriciens in mijn familie zijn en elektriciteit mij toen aansprak. Na het behalen van mijn diploma wou ik verder studeren in een richting met goede toekomstmogelijkheden. Daarom heb ik gekozen voor het Graduaat Systeem- en Netwerkbeheer.
 
-Ik vind het belangrijk om later een job te hebben die ook in de toekomst nodig blijft. IT blijft veranderen en ontwikkelen en dat was voor mij een belangrijke reden om voor deze opleiding te kiezen. Op dit moment spreekt security mij het meeste aan, al weet ik nog niet precies welke job ik later wil doen.
+Ik vind het belangrijk om later een job te hebben die ook in de toekomst nodig blijft. IT blijft veranderen en ontwikkelen en dat was voor mij een belangrijke reden om voor deze opleiding te kiezen. Op dit moment spreekt security mij het meeste aan, al weet ik nog niet welke job ik later wil doen.
 
 ## Mijn eerste ervaringen in de opleiding
 
-De opleiding zelf is ongeveer wat ik ervan verwacht had. Wat ik wel anders had ingeschat, was de hogeschool in het algemeen. Het grootste verschil met het middelbaar vind ik de vrijheid die je krijgt. Je bent veel meer zelf verantwoordelijk voor je aanwezigheid, planning en het bijhouden van de leerstof.
+De opleiding zelf is ongeveer wat ik ervan verwacht had. Wat ik wel anders had verwacht, was de hogeschool in het algemeen. Het grootste verschil met het middelbaar vind ik de vrijheid die je krijgt. Je bent veel meer zelf verantwoordelijk voor je aanwezigheid, planning en het bijhouden van de lessen.
 
 In het begin ging ik soms niet naar de les of lette ik niet voldoende op. Daardoor merkte ik dat je snel achterop kunt raken. Bij IT Organization en Networks heb ik bijvoorbeeld momenten gehad waarop ik tijdens de les merkte dat we met iets bezig waren waar ik eigenlijk weinig van wist.
 
@@ -24,7 +24,7 @@ Linux vond ik ook moeilijk. Ik probeerde de lessen te volgen, maar merkte dat ik
 
 ## Mijn ontwikkeling
 
-Sinds het begin van de opleiding merk ik dat ik leergieriger ben geworden. Ik wil niet opnieuw het gevoel hebben dat ik tijdens een les niet weet waarover het gaat. Daarom probeer ik bewuster met mijn opleiding bezig te zijn.
+Sinds het begin van de opleiding merk ik dat ik leergieriger ben geworden. Ik wil niet opnieuw  hebben dat ik tijdens een les niet weet waarover het gaat. Daarom probeer ik bewuster met mijn opleiding bezig te zijn.
 
 Ook mijn planning en timemanagement zijn volgens mij verbeterd. In het begin moest ik wennen aan de zelfstandigheid van de hogeschool. Nu begrijp ik beter dat ik zelf verantwoordelijk ben voor het plannen van mijn werk en het opvolgen van de leerstof.
 
