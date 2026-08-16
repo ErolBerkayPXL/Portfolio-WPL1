@@ -9,7 +9,7 @@
 
 # Opdrachten
 
-In dit onderdeel van mijn portfolio bespreek ik de verschillende opdrachten die ik heb uitgevoerd tijdens Werkplekleren 1. Eerst geef ik een algemeen overzicht van alle taken, gevolgd door mijn drie favoriete "Best of" opdrachten.
+In dit onderdeel van mijn portfolio bespreek ik de verschillende opdrachten die ik heb uitgevoerd tijdens Werkplekleren 1. Eerst geef ik een algemeen overzicht van alle taken, gevolgd door mijn twee favoriete "Best of" opdrachten.
 
 ## 1. Algemeen overzicht opdrachten
 Tijdens het eerste semester heb ik aan de volgende zaken gewerkt:
